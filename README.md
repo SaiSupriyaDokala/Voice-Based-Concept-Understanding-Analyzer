@@ -139,7 +139,8 @@ streamlit run app.py
 
 The landing page of the application where users can view project details, upload student audio, and select the concept reference.
 
-![Home Page](Assets/screenshots/01_home_page.png)
+![Home Page](s-1.png)
+
 
 ---
 
@@ -147,7 +148,7 @@ The landing page of the application where users can view project details, upload
 
 Students upload their recorded explanation. The application validates the uploaded audio before processing.
 
-![Audio Upload](Assets/screenshots/02_audio_upload.png)
+![Audio Upload](s-2.png)
 
 ---
 
@@ -155,7 +156,7 @@ Students upload their recorded explanation. The application validates the upload
 
 The uploaded audio is converted into a waveform for visualization before AI analysis begins.
 
-![Audio Waveform](Assets/screenshots/03_audio_waveform.png)
+![Audio Waveform](s-3.png)
 
 ---
 
@@ -163,7 +164,7 @@ The uploaded audio is converted into a waveform for visualization before AI anal
 
 The application transcribes the speech, calculates semantic similarity, generates an overall score, assigns a grade, and evaluates conceptual understanding.
 
-![Analysis Results](Assets/screenshots/04_analysis_result.png)
+![Analysis Results](s-4.png)
 
 ---
 
@@ -171,7 +172,7 @@ The application transcribes the speech, calculates semantic similarity, generate
 
 Personalized suggestions and identified strengths are displayed to help students improve their conceptual understanding.
 
-![AI Suggestions](Assets/screenshots/05_ai_suggestion.png)
+![AI Suggestions](s-5.png)
 
 ---
 
@@ -179,7 +180,7 @@ Personalized suggestions and identified strengths are displayed to help students
 
 The final evaluation summary is displayed, and users can download the generated PDF report.
 
-![Final Evaluation](Assets/screenshots/06_final_evaluation.png)
+![Final Evaluation](s-6.png)
 
 ---
 
